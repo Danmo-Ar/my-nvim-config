@@ -1,6 +1,7 @@
 # my-nvim-config
 Astrovim Config Starter Point For an amazing journey to the minimalist world!.
-I started migrating to NVIM because I like the minimalist spirit and therefore the simplicity that the terminal provides. So I'm still using my GOAT VSCcode but little by little I hope to completely embrace Neovim.
+I started migrating to NVIM because I like the minimalist spirit and therefore the simplicity that the terminal provides. 
+So I'm still using my GOAT VSCcode but with small step I hope to completely embrace Neovim.
 
 # UseFul Link :
 
